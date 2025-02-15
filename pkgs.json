@@ -1,24 +1,204 @@
-[
-  {
-    "titleid": "NPXS29129",
-    "version": "01.00",
-    "contentid": "IV0002-NPXS29129_00-APP0990000000022",
-    "type": "game",
-    "name": "A GameMaker: Studio Game",
-    "icon": "http://pkg-zone.com/images/NPXS29129/cover.png",
-    "links": [
-      "http://pkg-zone.com/download/ps4/NPXS29129/latest"
-    ],
-    "description": [
-      "GameMaker: Studio",
-      "TestApp"
-    ],
-    "devs": [
-      "Silica"
-    ],
-    "size": "32MB",
-    "categories": [
-      "test"
-    ]
+{
+  "DATA": {
+    "https://download946.mediafire.com/j12er0cxupegHTMHBJ_CLI0a65X6ECJAcEt4vfDwjQWJMT2VNtv8tfHcRZojdFPZRCdFcoRnhBZdNx57R6MRzBIQ4tYzuWC3_tf3g8mUYj9vR6mCZ5V2TuVgw7Jd5b2RmLkMyD7WGWtnJpYROnTWmDJYd2gXfnF4l3ECNSk4BusJOQ/zyrril47fhagckn/UP9000-CTDX00001_00-SNESP00000000001-A0100-V0100.pkg": {
+      "title_id": "CTDX00001",
+      "region": "ASIA",
+      "name": "Clock Tower",
+      "size": 33880000,
+      "version": "1.0",
+      "release": "02-09-1996",
+      "min_fw": "11.00",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/91.jpg"
+    },
+    "https://download854.mediafire.com/mlhxuu6qrzfgngjeDCu9-ipkekw4rZzcIbyeh7VgG9SfnKiMFsh2Q8RX2ooYqEWEtzs2iokBEyv9IydaD2sHuASzd01S_7Q2IIDdZk7Ta_oWJ3xEu_J7tvStIQ7r3L8KGBcPjUSVubBGL6f2ixCtF28dASnFol6pK2odyfaGG6_YyQ/c07gslk5fsj5659/EP6930-CUSA32070_00-APP0990000000022-A0100-V0100-TRIFECTA-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA32070",
+      "region": "EUR",
+      "name": "Post Void",
+      "size": 245760,
+      "version": "1.0",
+      "release": "02-13-2025",
+      "min_fw": "9.0",
+      "cover_url": "https://1.bp.blogspot.com/-4b_e_MgiW1A/Zk3j4SN617I/AAAAAAAAAiw/kdkTv_l-K7sGBMpKpnDzcsr7IZU3fI9sACNcBGAsYHQ/s0/3.jpg"
+    },
+    "https://download2293.mediafire.com/z29m4gdfe9ggfULgUUHeocuHM2kzflzvsLqeqRDgGQaXSaXlReB0dWmD2cDsW6sr5eFenbxKf0ab-gnSm6BbbxV0qQ2OHPJJBJYlnPyT0eUdvWSP3VQuczwBb8hYf0wMKyPMUAJWB7o00PAwHjTzL0_MhJdW9c4yPgfF69Tto5IDYA/dtyid2h7aneb297/%5BPS2%5DSuper+Mario+64%E2%84%A2+%26+Super+Luigi+64%E2%84%A2+SM6464-SMUS20091_00-SUPERMARIO64PS20-A0101-V0100-%5BDOWNLOADGAMEPS3.COM%5D.pkg": {
+      "title_id": "SMUS20091",
+      "region": "UNK",
+      "name": "PS2 - Super Mario 64 & Super Luigi 64",
+      "size": 40960,
+      "version": "1.0",
+      "release": "02-13-2025",
+      "min_fw": null,
+      "cover_url": "https://1.bp.blogspot.com/-6q_vyfWpBVY/ZaQSKUTUpkI/AAAAAAAAEYY/qN0bdfObk6k6bXycnNO8gSIBNgyxut-XwCNcBGAsYHQ/s0/62.jpg"
+    },
+    "https://download2294.mediafire.com/8wh573u8fxfg0SBiLpAdjv4FlEfSO0Rjs58I73ai17hyvU8YelQBgtIJAJL2Ouk-Z8c-H8IcPwKFZBmCqcWe1J19wpNwebuRZ-YnFJZo4zz05l2lk25Ujr76A_FV3lufGVhLQUp4mUMxZSFAoPh1QXy5jtOq9SBkVrj-REPQWWCm7g/85j8c85yhgi3u6z/UP9000-SMSH02024_00-SNESP00000000001-A0100-V0100.pkg": {
+      "title_id": "SMSH2024",
+      "region": "UNK",
+      "name": "PS2 - Super Mario Summer Heat Collection",
+      "size": 20480,
+      "version": "1.0",
+      "release": "02-13-2025",
+      "min_fw": null,
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/6.jpg"
+    },
+    "https://download2303.mediafire.com/2bxpdg1a9xtg-Q7ApNKLF6FeGn6OBTKpx2mtlb8m4K9axe7R9tzUqD85wdzMSz4-K7gNBIcwIMSrpMUkglJPASJvQs0v1rrZZUuvq52ycUiVTJCLd0v1W3ER9vPWvTdCyb2J6PGx4VBN44GrU_3x7NqAO7jzeYMCL8RVzim5J9lMQA/dlllpxmw9fmgp62/UP9000-MARI00162_00-SNESP00000000001-A0100-V0100.pkg": {
+      "title_id": "MARI00162",
+      "region": "UNK",
+      "name": "PS2 - Mario Forever",
+      "size": 20480,
+      "version": "1.0",
+      "release": null,
+      "min_fw": null,
+      "cover_url": "https://1.bp.blogspot.com/-sXnPEXXSLx0/Zazv9h1cSwI/AAAAAAAAErQ/4uZrA1T09dsEA3cbfxtHnCjrk4tAIrolACNcBGAsYHQ/s0/101.jpg"
+    },
+    "https://download944.mediafire.com/daba0ukcf5egoone6osMgcKJQB6dGpGlEorV-KiuQegd1qmUARbnrXspAdO6Mn4UpOUZE4oaR748bbRqwdytUQjL4DBnlb9Ugu_FXWaVy9jGwMXWEUSga6oYPmT3Qw004ssQLHOdgZ-BFM2gpR76oeSZAVOIXXC3GGfMrXfs79w3Lg/9axnbddd7zvh15u/EP7666-CUSA32794_00-1818929691768656-A0100-V0100-NoTrophy-TRIFECTA-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA32794",
+      "region": "USA",
+      "name": "Kruger",
+      "size": 143360,
+      "version": "1.0",
+      "release": null,
+      "min_fw": null,
+      "cover_url": "https://1.bp.blogspot.com/-tSukHKhRCkg/ZihvQsaV3DI/AAAAAAAAGNw/coVy4QYvqngk_MAezVWzqUH7ziFRfsCWwCNcBGAsYHQ/s0/9.png"
+    },
+    "https://download1583.mediafire.com/62ukny13d2fgyfZei5qUzFtUcVvJlAVROQuOqYq-fBY_OnrApaZWI4GZ8ZbxbdNpOFFbOQbbzsO1EbpmnLD5jlWmc3Eihn0kzUbtwawTF9PbRO8SuK0qoMwFR6nuObrGSL7baBbGAIcOzFupWgC_wxJjtD0QyWgD1r9iVTIjyMULug/6dc7h8mwginya51/UP7668-CUSA36058_00-3437855190704255-A0100-V0100-NoTrophy-TRIFECTA-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA36058",
+      "region": "USA",
+      "name": "Kruger 2",
+      "size": 120832,
+      "version": "1.0",
+      "release": null,
+      "min_fw": null,
+      "cover_url": "https://1.bp.blogspot.com/-p4ikZsk68eI/ZihvP_NzGtI/AAAAAAAAGNo/W-yTpllPO00JMcySDaNNbkDeCO7bVBG9wCNcBGAsYHQ/s0/8.png"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/cotZsdMTE64smueDCde-[SuperPSX]-CoffeeTalk_CUSA18112_v1.00_[6.72]-PS4.pkg": {
+      "title_id": "CUSA18112",
+      "region": "EUR",
+      "name": "Coffee Talk",
+      "size": 284672,
+      "version": "1.0",
+      "release": "02-13-2025",
+      "min_fw": null,
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/2-7.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/colvWlhrxRttAl9Yode-[SuperPSX]-Coffee.Talk.Episode.2_CUSA32951_v1.00_[9.00]-PS4.pkg": {
+      "title_id": "CUSA32951",
+      "region": "EUR",
+      "name": "Coffee Talk Episode 2 Hibiscus & Butterfly",
+      "size": 432128,
+      "version": "1.0",
+      "release": null,
+      "min_fw": null,
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/1-14.jpg"
+    },
+    "https://download1510.mediafire.com/naxhq8p8fprg9Q_PpOZJEo4E1Xxy4TxYZySZHpjTKDi-wKyoMErmtb5WOhJSGJ3PRuYSLKr55UaSsexKR20avqwBRVTbxOgVD3yT80ivMCAQPFUZAL9TYT81_VAVeeLauj9gLb1kM4JtskP-ofEtlygaEGdF3-gP9hn2Hf5xzUuqIQ/f77zgebzlss78nh/EP7079-CUSA29626_00-3835502981757459-A0100-V0100-NoTrophy-TRIFECTA-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA29626",
+      "region": "EUR",
+      "name": "Sally Face",
+      "size": 571392,
+      "version": "1.0",
+      "release": "02-13-2025",
+      "min_fw": null,
+      "cover_url": "https://1.bp.blogspot.com/-hxmByEdm2Y0/Zlrox95-WNI/AAAAAAAAAw0/4-KnOy8qq2Md41155E2dugDsI_PsuopqACNcBGAsYHQ/s0/12.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coGp31eA3eM8OxujIde-[SuperPSX]-Metro.Redux-CUSA00683-USA-Game-(5.05+)-PS4.pkg": {
+      "title_id": "CUSA00683",
+      "region": "USA",
+      "name": "Metro Redux",
+      "size": 12582912000,
+      "version": "1.01",
+      "release": "02-14-2023",
+      "min_fw": "5.05",
+      "cover_url": "https://4.bp.blogspot.com/-PXFxsT4w_0w/Wowjd7IR0jI/AAAAAAAALTc/uAtDXtBRsrIMj6Oy2LONfHw52YFbnQAKwCLcBGAs/s1600/26.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coAykSo0hivzGyxZhde-[SPSX]-Red.Dead.Redemption.2_CUSA08519_v1.00_[6.72]_OPOISSO893.pkg": {
+      "title_id": "CUSA08519",
+      "region": "EUR",
+      "name": "Red Dead Redemption 2",
+      "size": 682298504643,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "6.72",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/10.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/co1P9sNOo6g8xVuUfde-[SPSX]-Grand.Theft.Auto.V-CUSA00419-USA-Game-(5.05+)-PS4.pkg": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto V",
+      "size": 44755845120,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cogQwvod1Eloi9AUIde-EP0002-CUSA34029_00-COREGAME00000001-A0100-V0100-Fugazi-CyB1K.pkg": {
+      "title_id": "CUSA34029",
+      "region": "EUR",
+      "name": "Call of Duty Black Ops 6",
+      "size": 26542080,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "9.00",
+      "cover_url": "https://i.ibb.co/dJ4fL2q8/069caf897c050192300384a8ef46b805.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cor1qh7XJdPErrDuJde-[SuperPSX]-EA.SPORTS.FC.25_CUSA46399_v1.00_[11.00]_OPOISSO893.pkg": {
+      "title_id": "CUSA46399",
+      "region": "EUR",
+      "name": "EA Sports FC 25",
+      "size": 44870664192,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/co6YOl7IRAr8Wy9iPde-[SPSX]-Tomb.Raider.Definitive.Edition-CUSA00107-USA-Game-(5.50+)-PS4.pkg": {
+      "title_id": "CUSA00107",
+      "region": "USA",
+      "name": "Tomb Raider Definitive Edition",
+      "size": 15441985536,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cojF3L3sqGYmTX1kQde-[SuperPSX]-Shadow.of.the.Tomb.Raider_CUSA10872-v2.01_FullGame_[6.72]-PS4.pkg": {
+      "title_id": "CUSA10872",
+      "region": "EUR",
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "size": 32811319296,
+      "version": "2.01",
+      "release": "02-14-2025",
+      "min_fw": "7.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Shadow-of-the-Tomb-Raider-Definitive-Edition-PS4-PKG.webp"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cojF3L3sqGYmTX1kQde-[SuperPSX]-Shadow.of.the.Tomb.Raider_CUSA10872-v2.01_FullGame_[6.72]-PS4.pkg": {
+      "title_id": "CUSA10872",
+      "region": "EUR",
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "size": 32811319296,
+      "version": "2.01",
+      "release": "02-14-2025",
+      "min_fw": "7.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Shadow-of-the-Tomb-Raider-Definitive-Edition-PS4-PKG.webp"
+    },
+    "https://download.akirabox.com/uploads/users/1k0embVVmVb4/coa6HnUU2CJhka9Oude-EP0102-CUSA31498_00-A0100-V0118-CyB1K-[DLPSGAME.COM].pkg": {
+      "title_id": "CUSA31498",
+      "region": "EUR",
+      "name": "Street Fighter 6",
+      "size": 56908316672,
+      "version": "1.18",
+      "release": "02-15-2025",
+      "min_fw": "7.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/"
+    },
+    "https://download.akirabox.com/uploads/users/1k0embVVmVb4/coBv1PSU8N35hEzXPde-UP4363-CUSA44067_00-A0100-V0100-TRIFECTA-TheWorldismine-CyB1K-[DLPSGAME.COM].pkg": {
+      "title_id": "CUSA44067",
+      "region": "USA",
+      "name": "Sniper Elite Resistance Deluxe Edition",
+      "size": 35895189176,
+      "version": "1.00",
+      "release": "02-15-2025",
+      "min_fw": "7.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/"
+    }     
   }
-]
+}
